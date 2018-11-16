@@ -21,7 +21,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tuaagenda.ios"
+    },
+    "android": {
+      "package": "com.tuaagenda.android"
     }
   }
 }

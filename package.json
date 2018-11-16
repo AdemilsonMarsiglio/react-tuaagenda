@@ -10,8 +10,12 @@
   },
   "dependencies": {
     "expo": "^31.0.2",
+    "moment": "^2.22.2",
     "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-native-calendars": "^1.21.0",
+    "react-native-swipe-gestures": "^1.0.2",
+    "rnschedule": "^0.0.5"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"
