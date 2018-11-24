@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, TouchableOpacity, ToastAndroid } from 'react-native';
 
 export default class Day extends React.Component {
 
@@ -8,7 +8,7 @@ export default class Day extends React.Component {
     }
 
     onPress = () => {
-        console.log(" Dia: ", this.props.day, " Hora:", this.props.time);
+        ToastAndroid.show(`Dia: ${this.props.day.date} Hora: ${this.props.time}`, ToastAndroid.SHORT);
     }
 
     render() {
@@ -16,7 +16,7 @@ export default class Day extends React.Component {
                 <TouchableOpacity
                     style={[this.props.style, styles.container]}
                     onPress={this.onPress}>
-                    <Text>{this.props.day.number}</Text>
+                    
                 </TouchableOpacity>
             
         )

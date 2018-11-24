@@ -8,7 +8,9 @@ export default class Header extends React.Component {
 
     render () {
         const columnHeader = [{}, ...this.props.days].map(day => {
-            const nowDay = moment().format('DD');
+            const today = moment().format('YYYY/MM/DD');
+            const todayDay = moment().format('DD');
+            
             let key = "_";
 
             if (day && day.date) 
@@ -19,15 +21,17 @@ export default class Header extends React.Component {
                     {day.number 
                         ?   <View >
                                 <View style={styles.wrapColumnHeaderDayText}>
-                                    <Text style={styles.dayText}>{day.text}</Text>
+                                    <Text style={styles.dayText}>{day.text.toUpperCase()}</Text>
                                 </View>
                                 <View style={[
-                                    styles.wrapColumnHeaderDayNumber, 
-                                    day.number === nowDay ? styles.selectedDay : null]}
+                                        styles.wrapColumnHeaderDayNumber, 
+                                        day.number === todayDay ? [styles.sameDay, day.date === today ? styles.today : styles.otherMonth] : null,
+                                    ]}
                                 >
                                     <Text style={[
-                                        styles.dayTextNumber,
-                                        day.number === nowDay ? styles.selectedDayText : null]}>{day.number}</Text>
+                                            styles.dayTextNumber,
+                                            day.date === today ? styles.todayText : null,
+                                        ]}>{day.number}</Text>
                                 </View>
                             </View>
                         : null
@@ -63,20 +67,30 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
     },
-    selectedDay: {
-        backgroundColor: COLOR.ACCENT_COLOR,
+
+    sameDay: {
         borderRadius: 30,
         width: 30,
         height: 30,
         marginTop: 5,
     },
-    dayTextNumber: {
-        color: COLOR.PRIMARY_TEXT,
+    today: {
+        backgroundColor: COLOR.ACCENT_COLOR,
     },
-    dayText: {
-        color: COLOR.SECONDARY_TEXT
-    },
-    selectedDayText: {
+    todayText: {
         color: COLOR.TEXT_ICONS_COLOR
     },
+    otherMonth: {
+        borderWidth: 1,
+        borderColor: COLOR.DIVIDER_COLOR
+    },
+
+    dayTextNumber: {
+        color: COLOR.PRIMARY_TEXT
+    },
+    dayText: {
+        color: COLOR.SECONDARY_TEXT,
+        fontSize: 10
+    },
+    
 });

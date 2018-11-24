@@ -1,0 +1,353 @@
+[
+    {
+        "id": 3922,
+        "title": "Eliandra Simioni",
+        "start": "2018-12-28T16:00:00",
+        "end": "2018-12-28T16:25:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 3927,
+        "title": "Natal",
+        "start": "2018-12-25T09:00:00",
+        "end": "2018-12-25T20:00:00",
+        "tipo": "EXCECAO",
+        "color": "#000",
+        "textColor": "white"
+    },
+    {
+        "id": 3929,
+        "title": "Vitória Porto",
+        "start": "2018-12-28T17:30:00",
+        "end": "2018-12-28T17:55:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4008,
+        "title": "Geny Girardi Garcia",
+        "start": "2018-12-28T09:00:00",
+        "end": "2018-12-28T09:40:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4021,
+        "title": "Polyana Eduarda",
+        "start": "2018-12-28T16:30:00",
+        "end": "2018-12-28T16:55:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4029,
+        "title": "Duda SD",
+        "start": "2018-12-24T09:00:00",
+        "end": "2018-12-24T11:00:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4049,
+        "title": "Dhieimy Quelem Waltrich",
+        "start": "2018-12-28T14:30:00",
+        "end": "2018-12-28T15:55:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4074,
+        "title": "Francieli Marsiglio",
+        "start": "2018-12-29T10:00:00",
+        "end": "2018-12-29T11:00:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4083,
+        "title": "Silvana Claro",
+        "start": "2018-12-29T15:30:00",
+        "end": "2018-12-29T16:30:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4085,
+        "title": "Dani Romanoski",
+        "start": "2018-12-29T13:00:00",
+        "end": "2018-12-29T15:25:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4101,
+        "title": "Eliane Câmera",
+        "start": "2018-12-28T18:00:00",
+        "end": "2018-12-28T19:00:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4114,
+        "title": "Fátima Marsiglio",
+        "start": "2018-12-24T18:30:00",
+        "end": "2018-12-24T20:30:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4126,
+        "title": "Catia Porto Brotto",
+        "start": "2018-12-29T09:00:00",
+        "end": "2018-12-29T09:25:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4127,
+        "title": "Antônia Porto",
+        "start": "2018-12-29T09:30:00",
+        "end": "2018-12-29T09:50:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4165,
+        "title": "Raquel Neckel",
+        "start": "2018-12-29T11:00:00",
+        "end": "2018-12-29T12:00:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4210,
+        "title": "Patrícia de Marchi",
+        "start": "2018-12-28T10:00:00",
+        "end": "2018-12-28T11:00:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4218,
+        "title": "Gabriela Xavier",
+        "start": "2018-12-29T17:30:00",
+        "end": "2018-12-29T17:55:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4222,
+        "title": "Luani Casassola",
+        "start": "2018-12-24T14:00:00",
+        "end": "2018-12-24T15:00:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4251,
+        "title": "Gabriele Casagrande",
+        "start": "2018-12-29T16:30:00",
+        "end": "2018-12-29T17:30:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4270,
+        "title": "Gláucia Pozzan",
+        "start": "2018-12-27T18:30:00",
+        "end": "2018-12-27T19:35:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4316,
+        "title": "Daiana Stefani",
+        "start": "2018-12-27T09:00:00",
+        "end": "2018-12-27T09:25:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4347,
+        "title": "Taguida Tardetti",
+        "start": "2018-12-28T19:00:00",
+        "end": "2018-12-28T19:30:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4368,
+        "title": "Débora Rita Kujawa",
+        "start": "2018-12-28T13:30:00",
+        "end": "2018-12-28T14:30:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4369,
+        "title": "Débora Rita Kujawa",
+        "start": "2018-12-27T17:30:00",
+        "end": "2018-12-27T18:30:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4424,
+        "title": "Gisele Garcia",
+        "start": "2018-12-27T13:30:00",
+        "end": "2018-12-27T15:55:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4601,
+        "title": "Andriéli Lodi",
+        "start": "2018-12-28T19:30:00",
+        "end": "2018-12-28T19:55:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4613,
+        "title": "Camila Oliveira",
+        "start": "2018-12-29T18:00:00",
+        "end": "2018-12-29T18:25:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4675,
+        "title": "Cléia Dias",
+        "start": "2018-12-29T08:30:00",
+        "end": "2018-12-29T08:55:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4788,
+        "title": "Kari Vizinha",
+        "start": "2018-12-26T17:30:00",
+        "end": "2018-12-26T19:55:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4802,
+        "title": "Daniela Decezaro",
+        "start": "2018-12-28T11:00:00",
+        "end": "2018-12-28T12:00:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4864,
+        "title": "Fabiana Ribeiro",
+        "start": "2018-12-24T15:00:00",
+        "end": "2018-12-24T17:00:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4871,
+        "title": "Mariza Casagrande da Silva",
+        "start": "2018-12-24T17:00:00",
+        "end": "2018-12-24T18:20:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4880,
+        "title": "Carol Simioni",
+        "start": "2018-12-27T16:00:00",
+        "end": "2018-12-27T16:25:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4886,
+        "title": "Pamela Bergamaski",
+        "start": "2018-12-27T16:30:00",
+        "end": "2018-12-27T16:55:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4887,
+        "title": "Thais Korb",
+        "start": "2018-12-27T17:00:00",
+        "end": "2018-12-27T17:25:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4899,
+        "title": "Maria Camargo",
+        "start": "2018-12-28T17:00:00",
+        "end": "2018-12-28T17:25:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4901,
+        "title": "Tatiane Paludo",
+        "start": "2018-12-27T09:30:00",
+        "end": "2018-12-27T11:30:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4925,
+        "title": "Mae Daiana",
+        "start": "2018-12-27T09:00:00",
+        "end": "2018-12-27T09:25:00",
+        "tipo": "ADMIN",
+        "color": "#d219c6",
+        "textColor": "white"
+    },
+    {
+        "id": 4930,
+        "title": "Leticia Fingler da Costa",
+        "start": "2018-12-26T13:30:00",
+        "end": "2018-12-26T15:55:00",
+        "tipo": "CLIENT",
+        "color": "#d219c6",
+        "textColor": "white"
+    }
+]

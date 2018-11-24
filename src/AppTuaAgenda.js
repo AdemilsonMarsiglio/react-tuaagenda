@@ -1,6 +1,6 @@
 import React from 'react';
-import { StyleSheet, FlatList, Text, View, ScrollView } from 'react-native';
-import AgendaWeek from './pages/AgendaWeek';
+import { StyleSheet, FlatList, Text, View, ScrollView, Dimensions } from 'react-native';
+import AgendaWeekPager from './pages/AgendaWeekPager';
 
 import { COLOR } from './styles/style'
 
@@ -16,7 +16,7 @@ export default class AppTuaAgenda extends React.Component {
         <View style={styles.nav}>
           <Text style={styles.navText}>Fake Navigation</Text>
         </View>
-        <AgendaWeek />
+        <AgendaWeekPager/>
       </View>
     );
   }
