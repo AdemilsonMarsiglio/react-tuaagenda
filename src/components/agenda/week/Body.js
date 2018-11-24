@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View, ScrollView, FlatList } from 'react-native';
 
-import Day from './Day';
+import DayTime from './DayTime';
 import { COLOR } from '../../../styles/style';
 
 import InfiniteViewPager from '../../InfiniteViewPager';
@@ -45,7 +45,7 @@ export default class Body extends React.Component {
             if (index === 0) 
                 return <Text key={key} style={[styles.column, styles.columnText]}>{obj}</Text>
 
-            return <Day 
+            return <DayTime 
                         key={key}   
                         style={styles.column}
                         time={timeAndDay[0]}

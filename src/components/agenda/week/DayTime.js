@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, TouchableOpacity, ToastAndroid } from 'react-native';
 
-export default class Day extends React.Component {
+export default class DayTime extends React.Component {
 
     constructor(props) {
         super(props);
